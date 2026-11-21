@@ -1,124 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
   <title>Lackportal (simuliert) – freigegebene Chargen</title>
-  <link>https://<github-name>.github.io/lackportal/</link>
+  <link>https://cdwr4p4mnm-code.github.io/lackportal/</link>
   <description>Simulierte Lieferantenseite, Kursprojekt Digitale Fabrik</description>
   <language>de-de</language>
   <item>
     <title>Freigabe LC-B03-K2-03 – Blau metallic (DF-B03)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-B03-K2-03.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-B03-K2-03.pdf</link>
     <guid isPermaLink="false">LC-B03-K2-03</guid>
     <pubDate>Mon, 26 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-B03-K2-03, Farbcode DF-B03, Kabine K2, Herstelldatum 22.10.2026, Lieferdatum 27.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-W01-K2-02 – Polarweiß uni (DF-W01)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-W01-K2-02.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-W01-K2-02.pdf</link>
     <guid isPermaLink="false">LC-W01-K2-02</guid>
     <pubDate>Mon, 26 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-W01-K2-02, Farbcode DF-W01, Kabine K2, Herstelldatum 19.10.2026, Lieferdatum 27.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-B03-K1-02 – Blau metallic (DF-B03)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-B03-K1-02.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-B03-K1-02.pdf</link>
     <guid isPermaLink="false">LC-B03-K1-02</guid>
     <pubDate>Mon, 26 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-B03-K1-02, Farbcode DF-B03, Kabine K1, Herstelldatum 20.10.2026, Lieferdatum 27.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-G04-K2-02 – Grau metallic (DF-G04)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-G04-K2-02.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-G04-K2-02.pdf</link>
     <guid isPermaLink="false">LC-G04-K2-02</guid>
     <pubDate>Mon, 26 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-G04-K2-02, Farbcode DF-G04, Kabine K2, Herstelldatum 22.10.2026, Lieferdatum 27.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-S02-K1-02 – Tiefschwarz uni (DF-S02)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-S02-K1-02.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-S02-K1-02.pdf</link>
     <guid isPermaLink="false">LC-S02-K1-02</guid>
     <pubDate>Mon, 26 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-S02-K1-02, Farbcode DF-S02, Kabine K1, Herstelldatum 22.10.2026, Lieferdatum 27.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-G04-K1-02 – Grau metallic (DF-G04)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-G04-K1-02.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-G04-K1-02.pdf</link>
     <guid isPermaLink="false">LC-G04-K1-02</guid>
     <pubDate>Mon, 26 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-G04-K1-02, Farbcode DF-G04, Kabine K1, Herstelldatum 22.10.2026, Lieferdatum 27.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-W01-K1-02 – Polarweiß uni (DF-W01)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-W01-K1-02.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-W01-K1-02.pdf</link>
     <guid isPermaLink="false">LC-W01-K1-02</guid>
     <pubDate>Mon, 26 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-W01-K1-02, Farbcode DF-W01, Kabine K1, Herstelldatum 21.10.2026, Lieferdatum 27.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-S02-K2-02 – Tiefschwarz uni (DF-S02)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-S02-K2-02.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-S02-K2-02.pdf</link>
     <guid isPermaLink="false">LC-S02-K2-02</guid>
     <pubDate>Mon, 26 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-S02-K2-02, Farbcode DF-S02, Kabine K2, Herstelldatum 18.10.2026, Lieferdatum 27.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-B03-K2-02 – Blau metallic (DF-B03)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-B03-K2-02.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-B03-K2-02.pdf</link>
     <guid isPermaLink="false">LC-B03-K2-02</guid>
     <pubDate>Sun, 25 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-B03-K2-02, Farbcode DF-B03, Kabine K2, Herstelldatum 18.10.2026, Lieferdatum 26.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-B03-K1-01 – Blau metallic (DF-B03)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-B03-K1-01.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-B03-K1-01.pdf</link>
     <guid isPermaLink="false">LC-B03-K1-01</guid>
     <pubDate>Thu, 22 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-B03-K1-01, Farbcode DF-B03, Kabine K1, Herstelldatum 15.10.2026, Lieferdatum 23.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-S02-K2-01 – Tiefschwarz uni (DF-S02)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-S02-K2-01.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-S02-K2-01.pdf</link>
     <guid isPermaLink="false">LC-S02-K2-01</guid>
     <pubDate>Thu, 22 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-S02-K2-01, Farbcode DF-S02, Kabine K2, Herstelldatum 18.10.2026, Lieferdatum 23.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-W01-K1-01 – Polarweiß uni (DF-W01)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-W01-K1-01.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-W01-K1-01.pdf</link>
     <guid isPermaLink="false">LC-W01-K1-01</guid>
     <pubDate>Thu, 22 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-W01-K1-01, Farbcode DF-W01, Kabine K1, Herstelldatum 18.10.2026, Lieferdatum 23.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-W01-K2-01 – Polarweiß uni (DF-W01)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-W01-K2-01.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-W01-K2-01.pdf</link>
     <guid isPermaLink="false">LC-W01-K2-01</guid>
     <pubDate>Thu, 22 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-W01-K2-01, Farbcode DF-W01, Kabine K2, Herstelldatum 14.10.2026, Lieferdatum 23.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-S02-K1-01 – Tiefschwarz uni (DF-S02)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-S02-K1-01.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-S02-K1-01.pdf</link>
     <guid isPermaLink="false">LC-S02-K1-01</guid>
     <pubDate>Thu, 22 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-S02-K1-01, Farbcode DF-S02, Kabine K1, Herstelldatum 15.10.2026, Lieferdatum 23.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-G04-K2-01 – Grau metallic (DF-G04)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-G04-K2-01.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-G04-K2-01.pdf</link>
     <guid isPermaLink="false">LC-G04-K2-01</guid>
     <pubDate>Thu, 22 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-G04-K2-01, Farbcode DF-G04, Kabine K2, Herstelldatum 16.10.2026, Lieferdatum 23.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-G04-K1-01 – Grau metallic (DF-G04)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-G04-K1-01.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-G04-K1-01.pdf</link>
     <guid isPermaLink="false">LC-G04-K1-01</guid>
     <pubDate>Thu, 22 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-G04-K1-01, Farbcode DF-G04, Kabine K1, Herstelldatum 17.10.2026, Lieferdatum 23.10.2026.</description>
   </item>
   <item>
     <title>Freigabe LC-B03-K2-01 – Blau metallic (DF-B03)</title>
-    <link>https://<github-name>.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-B03-K2-01.pdf</link>
+    <link>https://cdwr4p4mnm-code.github.io/lackportal/zeugnisse/Pruefzeugnis_LC-B03-K2-01.pdf</link>
     <guid isPermaLink="false">LC-B03-K2-01</guid>
     <pubDate>Thu, 22 Oct 2026 10:00:00 +0100</pubDate>
     <description>Charge LC-B03-K2-01, Farbcode DF-B03, Kabine K2, Herstelldatum 18.10.2026, Lieferdatum 23.10.2026.</description>
